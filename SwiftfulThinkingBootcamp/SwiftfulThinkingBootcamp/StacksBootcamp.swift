@@ -90,7 +90,7 @@ struct StacksBootcamp: View {
                     .font(.title)
                     .foregroundColor(.white)
             }
-            
+
             Text("1")
                 .font(.title)
                 .foregroundColor(.white)
