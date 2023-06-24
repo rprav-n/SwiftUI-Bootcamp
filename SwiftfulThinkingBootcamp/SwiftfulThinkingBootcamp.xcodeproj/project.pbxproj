@@ -26,6 +26,7 @@
 		24C8E1422A3F5ED900AE99BF /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C8E1412A3F5ED900AE99BF /* ColorsBootcamp.swift */; };
 		24F9A1D32A46EF6100DCEA59 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F9A1D22A46EF6100DCEA59 /* ScrollViewBootcamp.swift */; };
 		24F9A1D52A46F27400DCEA59 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F9A1D42A46F27400DCEA59 /* GridBootcamp.swift */; };
+		24F9A1D72A46F77300DCEA59 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F9A1D62A46F77300DCEA59 /* SafeAreaBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		24C8E1412A3F5ED900AE99BF /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		24F9A1D22A46EF6100DCEA59 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		24F9A1D42A46F27400DCEA59 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		24F9A1D62A46F77300DCEA59 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				24AA99CE2A44C34C0064825A /* ForEachBootcamp.swift */,
 				24F9A1D22A46EF6100DCEA59 /* ScrollViewBootcamp.swift */,
 				24F9A1D42A46F27400DCEA59 /* GridBootcamp.swift */,
+				24F9A1D62A46F77300DCEA59 /* SafeAreaBootcamp.swift */,
 				241F084D2A3DA31400582DE3 /* Assets.xcassets */,
 				241F084F2A3DA31400582DE3 /* Preview Content */,
 			);
@@ -190,6 +193,7 @@
 				24497A592A40C6DE009D86CB /* FrameBootcamp.swift in Sources */,
 				24AA99CD2A44BEA20064825A /* InitAndEnumBootcamp.swift in Sources */,
 				24C8E1402A3F5ABB00AE99BF /* ShapesBootcamp.swift in Sources */,
+				24F9A1D72A46F77300DCEA59 /* SafeAreaBootcamp.swift in Sources */,
 				241F084C2A3DA30F00582DE3 /* ContentView.swift in Sources */,
 				24AA99CF2A44C34C0064825A /* ForEachBootcamp.swift in Sources */,
 				24C8E13E2A3F43B900AE99BF /* TextBootcamp.swift in Sources */,
