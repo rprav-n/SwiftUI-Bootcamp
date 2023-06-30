@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		240BC3B22A4F4D4B00B5C81E /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240BC3B12A4F4D4B00B5C81E /* TabViewBootcamp.swift */; };
+		240BC3B42A4F520700B5C81E /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240BC3B32A4F520700B5C81E /* DarkModeBootcamp.swift */; };
 		241F084A2A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241F08492A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift */; };
 		241F084C2A3DA30F00582DE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241F084B2A3DA30F00582DE3 /* ContentView.swift */; };
 		241F084E2A3DA31400582DE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 241F084D2A3DA31400582DE3 /* Assets.xcassets */; };
@@ -57,6 +58,7 @@
 
 /* Begin PBXFileReference section */
 		240BC3B12A4F4D4B00B5C81E /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
+		240BC3B32A4F520700B5C81E /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		241F08462A3DA30F00582DE3 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		241F08492A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		241F084B2A3DA30F00582DE3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				245E558F2A4DBF6E0072EC2B /* StepperBootcamp.swift */,
 				245E55912A4DF4D20072EC2B /* SliderBootcamp.swift */,
 				240BC3B12A4F4D4B00B5C81E /* TabViewBootcamp.swift */,
+				240BC3B32A4F520700B5C81E /* DarkModeBootcamp.swift */,
 				241F084D2A3DA31400582DE3 /* Assets.xcassets */,
 				241F084F2A3DA31400582DE3 /* Preview Content */,
 			);
@@ -294,6 +297,7 @@
 				241F084A2A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				24A685052A49FDE0005EEE17 /* TransitionBootcamp.swift in Sources */,
 				247229432A421B9600D9551C /* StacksBootcamp.swift in Sources */,
+				240BC3B42A4F520700B5C81E /* DarkModeBootcamp.swift in Sources */,
 				245E55902A4DBF6E0072EC2B /* StepperBootcamp.swift in Sources */,
 				2429CCC02A4B32E300ECADB7 /* PopoverBootcamp.swift in Sources */,
 				245E558C2A4DA1230072EC2B /* ColorPickerBootcamp.swift in Sources */,
