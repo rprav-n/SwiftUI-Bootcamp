@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		240BC3B22A4F4D4B00B5C81E /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240BC3B12A4F4D4B00B5C81E /* TabViewBootcamp.swift */; };
 		241F084A2A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241F08492A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift */; };
 		241F084C2A3DA30F00582DE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 241F084B2A3DA30F00582DE3 /* ContentView.swift */; };
 		241F084E2A3DA31400582DE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 241F084D2A3DA31400582DE3 /* Assets.xcassets */; };
@@ -55,6 +56,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		240BC3B12A4F4D4B00B5C81E /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		241F08462A3DA30F00582DE3 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		241F08492A3DA30F00582DE3 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		241F084B2A3DA30F00582DE3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				245E558D2A4DBC140072EC2B /* DatePickerBootcamp.swift */,
 				245E558F2A4DBF6E0072EC2B /* StepperBootcamp.swift */,
 				245E55912A4DF4D20072EC2B /* SliderBootcamp.swift */,
+				240BC3B12A4F4D4B00B5C81E /* TabViewBootcamp.swift */,
 				241F084D2A3DA31400582DE3 /* Assets.xcassets */,
 				241F084F2A3DA31400582DE3 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 				245E55802A4D8B1B0072EC2B /* ActionsheetBootcamp.swift in Sources */,
 				2429CCBE2A4B2E4700ECADB7 /* SheetsBootcamp.swift in Sources */,
 				24211F872A488C2E007AF2F2 /* StateBootcamp.swift in Sources */,
+				240BC3B22A4F4D4B00B5C81E /* TabViewBootcamp.swift in Sources */,
 				24211F912A489A83007AF2F2 /* TernaryOperatorBootcamp.swift in Sources */,
 				245E55862A4D97170072EC2B /* TextEditorBootcamp.swift in Sources */,
 				24C8E1422A3F5ED900AE99BF /* ColorsBootcamp.swift in Sources */,
