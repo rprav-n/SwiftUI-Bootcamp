@@ -25,8 +25,8 @@ struct IfLetGuardBootcamp: View {
                 
                 // DO NOT FORCE UNWRAP
                 // DO NOT FORCE UNWRAP
-                Text(displayText!)
-                    .font(.title)
+//                Text(displayText!)
+//                    .font(.title)
                 // DO NOT FORCE UNWRAP
                 // DO NOT FORCE UNWRAP
                 
