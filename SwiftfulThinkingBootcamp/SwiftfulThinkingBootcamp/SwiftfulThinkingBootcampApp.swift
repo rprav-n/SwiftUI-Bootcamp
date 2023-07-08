@@ -14,7 +14,8 @@ struct SwiftfulThinkingBootcampApp: App {
 //            ContentView()
             //AppStorageBootcamp()
             //FocusStateBootcamp()
-            SubmitTextFieldBootcamp()
+            //SubmitTextFieldBootcamp()
+            NavigationStackBootcamp()
         }
     }
 }
