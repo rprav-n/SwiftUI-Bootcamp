@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+@available(*, introduced: 13.0, deprecated: 15.0, message: "Use AnimationUpdatedBootcamp instead.")
 struct AnimationBootcamp: View {
     
     @State var isAnimated = false
@@ -33,7 +34,7 @@ struct AnimationBootcamp: View {
                 .rotationEffect(.degrees( isAnimated ? 0 : 20))
                 .offset(y: isAnimated ? 300 : 0)
             
-                //.animation(.default.repeatForever())
+               .animation(.default.repeatForever())
                 
             Spacer()
         }
