@@ -19,6 +19,7 @@
 		AC779F852B5BE3B1002C4BF2 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC779F842B5BE3B1002C4BF2 /* ImageBootcamp.swift */; };
 		AC779F872B5BF402002C4BF2 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC779F862B5BF402002C4BF2 /* FrameBootcamp.swift */; };
 		AC779F892B5BF691002C4BF2 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC779F882B5BF690002C4BF2 /* BackgroundAndOverlayBootcamp.swift */; };
+		AC779F8B2B5C009B002C4BF2 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC779F8A2B5C009B002C4BF2 /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		AC779F842B5BE3B1002C4BF2 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		AC779F862B5BF402002C4BF2 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		AC779F882B5BF690002C4BF2 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		AC779F8A2B5C009B002C4BF2 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				AC779F842B5BE3B1002C4BF2 /* ImageBootcamp.swift */,
 				AC779F862B5BF402002C4BF2 /* FrameBootcamp.swift */,
 				AC779F882B5BF690002C4BF2 /* BackgroundAndOverlayBootcamp.swift */,
+				AC779F8A2B5C009B002C4BF2 /* StacksBootcamp.swift */,
 				AC779F702B5BA176002C4BF2 /* Assets.xcassets */,
 				AC779F722B5BA176002C4BF2 /* Preview Content */,
 			);
@@ -169,6 +172,7 @@
 				AC779F6F2B5BA175002C4BF2 /* ContentView.swift in Sources */,
 				AC779F7B2B5BA9A5002C4BF2 /* TextBootcamp.swift in Sources */,
 				AC779F6D2B5BA175002C4BF2 /* SwiftUIBootcampApp.swift in Sources */,
+				AC779F8B2B5C009B002C4BF2 /* StacksBootcamp.swift in Sources */,
 				AC779F852B5BE3B1002C4BF2 /* ImageBootcamp.swift in Sources */,
 				AC779F832B5BE0E3002C4BF2 /* IconsBootcamp.swift in Sources */,
 			);
